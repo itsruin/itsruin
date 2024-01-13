@@ -1,3 +1,7 @@
+### preparing..
+
+<!-- [2023]
+
 <p align="center">
   <img width="300" height="300" src="https://media.discordapp.net/attachments/1160609760689782884/1160609908438356029/whitehybe.png?ex=65354935&is=6522d435&hm=d9eb17ccccecbb77c4fd85692694677e5d44236da440c672e04eb6885a0b51d2&">
 </p>
@@ -35,3 +39,5 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 </p>
+
+-->

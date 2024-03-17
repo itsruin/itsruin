@@ -4,12 +4,12 @@
 
 ### Hi there!
 
-<p>
+<!-- <p>
     I'm developing all aspects of the in-game systems for <b><a href="https://discord.gg/storys">STORY (FiveM, South Korea)</a></b><br/>
     Additionally, to improve my development skills, I work with partners to create and sell awesome scripts! <b><a href="https://discord.gg/Z9AhuN9K9D">⭐️ Here is our team's Store</a></b><br/><br/>
     Based on <b>4+ years of FiveM development experience</b>, I am striving to create the best system!<br/><br/>
     Currently, I am going to school and learning different languages.
-</p>
+</p> -->
 
 #### Platforms & Languages
 <p>

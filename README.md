@@ -4,20 +4,13 @@
 
 ### Hi there!
 
-<!-- <p>
-    <img src="https://img.shields.io/badge/@itsruin1-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/>
-    <a href="mailto:profit3027@gmail.com" target="_blank"><img src="https://img.shields.io/badge/profit3027@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-</p> -->
-
-<!-- <p>
-    I'm developing all aspects of the in-game systems for <b><a href="https://discord.gg/hybe">HYBE (FiveM, South Korea)</a></b><br/>
+<p>
+    I'm developing all aspects of the in-game systems for <b><a href="https://discord.gg/storys">STORY (FiveM, South Korea)</a></b><br/>
     Additionally, to improve my development skills, I work with partners to create and sell awesome scripts! <b><a href="https://discord.gg/Z9AhuN9K9D">⭐️ Here is our team's Store</a></b><br/><br/>
-    Based on <b>4 years of FiveM development experience</b>, I am striving to create the best system!<br/><br/>
+    Based on <b>4+ years of FiveM development experience</b>, I am striving to create the best system!<br/><br/>
     Currently, I am going to school and learning different languages.
-</p> -->
+</p>
 
-<!-- ### Skills -->
 #### Platforms & Languages
 <p>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
@@ -30,9 +23,9 @@
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
-<!-- <p>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-</p> -->
 
+#### Tools
+<p>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jetbrains IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
+</p>
